@@ -13,7 +13,7 @@ permalink: /
 
 **Description:** Lightspeed is a leader in providing classroom audio solutions to learning environments around the globe.
 
-NounTown is working with Lightspeed, a learning company that removes barriers in education environments through innovative audio solutions.
+nounTown is working with Lightspeed, a learning company that removes barriers in education environments through innovative audio solutions.
 
 [Get started now →]({{ site.baseurl }}/docs/core-strategy/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
