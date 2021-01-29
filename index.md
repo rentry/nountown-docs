@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "NounTown is the work of UW content strategy team 6."
+description: "nounTown is the work of UW content strategy team 6."
 permalink: /
 ---
 

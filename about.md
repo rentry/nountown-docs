@@ -8,7 +8,7 @@ nav_exclude: true
 
 We're part of the [University of Washington's Storytelling & Content Strategy](https://www.pce.uw.edu/certificates/storytelling-and-content-strategy) program.
 
-The NounTown team:
+The nounTown team:
 
 - Taylor Grace
 - Tina Grover
