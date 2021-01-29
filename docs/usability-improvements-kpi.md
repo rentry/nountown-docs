@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Usability improvements & KPIs
-nav_order: 6
+nav_order: 8
 ---
 
 # {{ page.title }}
+
+Assignment 7
+{: .label .label-yellow }
 
 Coming soon
 

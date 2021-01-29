@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Usability diagnosis
-nav_order: 5
+nav_order: 7
 ---
 
 # {{ page.title }}
+
+Assignment 6
+{: .label .label-yellow }
 
 Coming soon
 

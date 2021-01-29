@@ -6,6 +6,9 @@ nav_order: 4
 
 # {{ page.title }}
 
+Assignment 3
+{: .label .label-yellow }
+
 Coming soon
 
-[The journey map →]({{ site.baseurl }}/docs/journey-map/){% include unbutton.html %}
+[ Target persona & empathy map →]({{ site.baseurl }}/docs/target-persona-empathy-map/){% include unbutton.html %}

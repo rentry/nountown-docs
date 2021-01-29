@@ -1,10 +1,13 @@
 ---
 layout: default
 title: The journey map
-nav_order: 5
+nav_order: 6
 ---
 
 # {{ page.title }}
+
+Assignment 5
+{: .label .label-yellow }
 
 Coming soon
 
