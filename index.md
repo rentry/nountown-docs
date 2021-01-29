@@ -6,10 +6,14 @@ description: "NounTown is the work of UW content strategy team 6."
 permalink: /
 ---
 
-# Content strategy recommendations
+# Content strategy brief
 {: .fs-9 }
 
-Our recommendations for [Lightspeed](https://www.lightspeed-tek.com/), a leader in providing classroom audio solutions to learning environments around the globe.
+**Client:** [Lightspeed](https://www.lightspeed-tek.com/)
+
+**Description:** Lightspeed is a leader in providing classroom audio solutions to learning environments around the globe.
+
+NounTown is working with Lightspeed, a learning company that removes barriers in education environments through innovative audio solutions.
 
 [Get started now](#){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/rentry/nountown-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
