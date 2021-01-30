@@ -16,4 +16,3 @@ permalink: /
 nounTown is working with Lightspeed, a learning company that removes barriers in education environments through innovative audio solutions.
 
 [Review the strategy →]({{ site.baseurl }}/docs/core-strategy/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
