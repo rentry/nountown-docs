@@ -6,7 +6,7 @@ description: "nounTown is the work of UW content strategy team 6."
 permalink: /
 ---
 
-# Content strategy brief
+# Content strategy plan
 {: .fs-9 }
 
 ## Client
