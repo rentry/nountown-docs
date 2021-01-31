@@ -12,6 +12,26 @@ Assignment 1
 ## Vision statement 
 We envision a future with fewer barriers to learning, where generations of students in physical and virtual classrooms can engage meaningfully with their teachers and peers without distraction, delay, or complication.
 
+## Formula
+
+**What do you need to do. (Main Goal for strategy)**
+
+- Sell instructional audio solutions
+
+**Who are you talking to (main audience)**
+
+- Educators
+- Teachers
+
+**What are you offering (unique value, angle, approach)**
+
+- Educational information on how to unite succeed in the classroom
+- Educational information for audiences on how they can succeed in the classroom 
+
+**What will you create (content to be delivered)**
+- Blogs, e-books, and many more. 
+- Through a variety of content types tactics. 
+
 ## Content strategy statement
 
 Lightspeed’s **content** shows **educators a better way** to the **modern** classroom setting with instructional audio solutions. 
@@ -27,6 +47,5 @@ Lightspeeds content **inspires & empowers** educators to **succeed** in the **mo
 - **Empowers:** Gives people knowledge, tools, and opportunities to see an impact.
 - **Succeed:** Success means learning is made more accessible for every teacher and student. 
 - **Modern:** Recognize the shift from in-person education to online learning
-(^ This is ripped off the [example from Content Strategy, Inc.](https://contentstrategyinc.com/getting-core-content-strategy/))
 
 [Brand voice guide →]({{ site.baseurl }}/docs/brand-voice-guide/){% include unbutton.html %}
