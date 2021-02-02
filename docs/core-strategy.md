@@ -12,6 +12,10 @@ Assignment 1
 ## Vision statement 
 We envision a future with fewer barriers to learning, where generations of students in physical and virtual classrooms can engage meaningfully with their teachers and peers without distraction, delay, or complication.
 
+## Content strategy statement
+
+Lightspeed’s content inspires educators to discover new, innovative ways to reach their students using technologies that remove barriers to learning across a variety of classroom formats.
+
 ## Formula
 
 **What do you need to do. (Main Goal for strategy)**
@@ -31,10 +35,6 @@ We envision a future with fewer barriers to learning, where generations of stude
 **What will you create (content to be delivered)**
 - Blogs, e-books, and many more. 
 - Through a variety of content types tactics. 
-
-## Content strategy statement
-
-**Lightspeed’s content inspires educators to discover new, innovative ways to reach their students using technologies that remove barriers to learning across a variety of classroom formats.**
 
 
 [Brand voice guide →]({{ site.baseurl }}/docs/brand-voice-guide/){% include unbutton.html %}
