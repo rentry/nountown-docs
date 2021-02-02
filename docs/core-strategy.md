@@ -20,6 +20,19 @@ Established in 1990, Lightspeed is dedicated to making a remarkable difference f
 ### Mission statement
 At Lightspeed, our mission is to make a remarkable difference for teachers and students by creating powerful, in-the-moment, active insights into the learning process. 
 
+### Core values
+We are an ESOP company on the path to becoming employee-owned. We believe how you do something is as important as what you do. Our employees across the country are committed to living our core values every day.
+
+- **Integrity:** We are honest, aware of our actions, and strive to do the right thing.
+
+- **Respect:** We value colleagues and seek to understand their purposes, concerns, and circumstances.
+
+- **Innovation:** We discover breakthrough opportunities, solve complex problems, and improve processes.
+
+- **Stewardship:** We come together to serve each other, sustain our culture and grow our business.
+
+- **Humility:** We are servant leaders who encourage, support and challenge, but never demean or coerce.
+
 <hr>
 
 <img src="{{site.baseul}}/assets/images/nountown.png" width="100px" alt="nountown" /> recommendations
