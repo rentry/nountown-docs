@@ -11,4 +11,5 @@ Assignment 5
 
 Coming soon
 
+<br>
 [Usability diagnosis →]({{ site.baseurl }}/docs/usability-diagnosis/){% include unbutton.html %}

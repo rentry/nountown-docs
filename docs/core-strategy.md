@@ -41,5 +41,5 @@ The nounTown team (team six):
 - Kelly Knickerbocker
 - Ekaterina Shevchenko
 
-
+<br>
 [Brand voice guide →]({{ site.baseurl }}/docs/brand-voice-guide/){% include unbutton.html %}

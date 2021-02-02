@@ -11,4 +11,5 @@ Assignment 2
 
 Coming soon
 
+<br>
 [Target persona definition & affinity diagram →]({{ site.baseurl }}/docs/target-persona-affinity/){% include unbutton.html %}

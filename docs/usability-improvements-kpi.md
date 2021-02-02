@@ -11,4 +11,5 @@ Assignment 7
 
 Coming soon
 
+<br>
 [Content strategy plan →]({{ site.baseurl }}/docs/content-strategy-plan/){% include unbutton.html %}
