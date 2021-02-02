@@ -12,7 +12,7 @@ Assignment 1
 ## Vision statement 
 We envision a future with fewer barriers to learning, where generations of students in physical and virtual classrooms can engage meaningfully with their teachers and peers without distraction, delay, or complication.
 
-## Content strategy statement
+## Core strategy statement
 
 Lightspeed’s content inspires educators to discover new, innovative ways to reach their students using technologies that remove barriers to learning across a variety of classroom formats.
 
