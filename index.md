@@ -19,5 +19,6 @@ Established in 1990, Lightspeed is dedicated to making a remarkable difference f
 
 ### Mission statement
 At Lightspeed, our mission is to make a remarkable difference for teachers and students by creating powerful, in-the-moment, active insights into the learning process. 
+<br><br>
 
 [Review the strategy →]({{ site.baseurl }}/docs/core-strategy/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
