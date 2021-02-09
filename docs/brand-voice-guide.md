@@ -57,10 +57,10 @@ Assignment 2
 
 ## What our tone of voice isn’t
 
-1. In relation to Lightspeed’s formal theme, the company’s tone of voice is not casual.
-1. In relation to Lightspeed’s caring theme, the company’s tone of voice is not indifferent. 
-1. Although Lightspeed’s tone of voice is authoritative, it is not overbearing or arrogant.
-1. In relation to Lightspeed’s theme of innovation, it is not stagnant.
+1. In relation to Lightspeed’s formal theme, the company’s tone of voice is not **casual**.
+1. In relation to Lightspeed’s caring theme, the company’s tone of voice is not **indifferent**. 
+1. Although Lightspeed’s tone of voice is authoritative, it is not **overbearing** or **arrogant**.
+1. In relation to Lightspeed’s theme of innovation, it is not **stagnant**.
 
 ## Voice sample sentences
 ### On brand
