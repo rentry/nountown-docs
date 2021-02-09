@@ -77,7 +77,7 @@ Loss of visual cues for comprehension: Non-transparent masks will make it imposs
 Lightspeed’s classroom audio systems have re-invented communication between teacher and student.
 
 
-## Not on brand
+### Not on brand
 
 1. Lightspeed’s classroom audio systems lets the kids in the back be heard.
 1. Easy-to-follow YouTube videos make installing our speakers a snap.
