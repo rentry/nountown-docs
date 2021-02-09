@@ -69,7 +69,7 @@ Assignment 2
 2. **Caring:** 
 - Lightspeed’s technology allows the voices of all students to be heard.
 Our classroom audio systems are easy-to-use, so teachers can focus on educating instead of troubleshooting.
-Loss of visual cues for comprehension: Non-transparent masks will make it impossible for students to read teachers’ lips and properly interpret facial expressions, making them entirely reliant on the teacher’s voice. (Source)
+Loss of visual cues for comprehension: Non-transparent masks will make it impossible for students to read teachers’ lips and properly interpret facial expressions, making them entirely reliant on the teacher’s voice. ([Source](https://f.hubspotusercontent30.net/hubfs/2117481/Face_Mask_Application_Brief_AB0580US01-1.pdf))
 3. **Authoritative:** 
 - Our solutions help overcome barriers to listening so students can clearly hear their teacher to receive the best instruction and support at the right time.
 4. **Innovative:** 
