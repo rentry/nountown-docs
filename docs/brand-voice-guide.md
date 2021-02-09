@@ -65,16 +65,16 @@ Assignment 2
 ## Voice sample sentences
 ### On brand
 1. **Formal:**
-- Find out more how Lightspeed instructional audio solutions help overcome listening challenges and ensure clarity of speech and even sound distribution for in-class and remote learners.
+- Find out more how Lightspeed instructional audio solutions help overcome listening challenges and ensure clarity of speech and even sound distribution for in-class and remote learners. ([Source](https://f.hubspotusercontent30.net/hubfs/2117481/Face_Mask_Application_Brief_AB0580US01-1.pdf))
 2. **Caring:** 
 - Lightspeed’s technology allows the voices of all students to be heard.
 Our classroom audio systems are easy-to-use, so teachers can focus on educating instead of troubleshooting.
 Loss of visual cues for comprehension: Non-transparent masks will make it impossible for students to read teachers’ lips and properly interpret facial expressions, making them entirely reliant on the teacher’s voice. ([Source](https://f.hubspotusercontent30.net/hubfs/2117481/Face_Mask_Application_Brief_AB0580US01-1.pdf))
 3. **Authoritative:** 
-- Our solutions help overcome barriers to listening so students can clearly hear their teacher to receive the best instruction and support at the right time.
+- Our solutions help overcome barriers to listening so students can clearly hear their teacher to receive the best instruction and support at the right time. ([Source](https://www.lightspeed-tek.com/products/))
 4. **Innovative:** 
-- We define ourselves as a learning company because we will continue to find new ways to create access to learning by studying the dynamics of the classroom. 
-Lightspeed’s classroom audio systems have re-invented communication between teacher and student.
+- We define ourselves as a learning company because we will continue to find new ways to create access to learning by studying the dynamics of the classroom. ([Source](https://www.lightspeed-tek.com/about-us/overview/))
+- Lightspeed’s classroom audio systems have re-invented communication between teacher and student.
 
 
 ### Not on brand
