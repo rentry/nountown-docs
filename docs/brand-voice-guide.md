@@ -50,10 +50,10 @@ Assignment 2
 
 ### Thematic families
 
-1. **Formal** manifests as direct, professional and straightforward
-1. **Caring** manifests as respectful, empathetic and approachable
-1. **Authoritative** manifests as credible, informative and confident
-1. **Innovative** manifests as passionate, energetic and inspirational
+1. **Formal** manifests as direct, professional, and straightforward
+1. **Caring** manifests as respectful, empathetic, and approachable
+1. **Authoritative** manifests as credible, informative, and confident
+1. **Innovative** manifests as passionate, energetic, and inspirational
 
 ## What our tone of voice isn’t
 
