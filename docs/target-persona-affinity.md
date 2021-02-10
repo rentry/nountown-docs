@@ -9,6 +9,8 @@ nav_order: 4
 Assignment 3
 {: .label .label-yellow }
 
+**Team lead:** Jeff Keller
+
 Coming soon
 
 <br>

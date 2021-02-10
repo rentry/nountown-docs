@@ -9,6 +9,8 @@ nav_order: 8
 Assignment 7
 {: .label .label-yellow }
 
+**Team lead:** Kelly Knickerbocker
+
 Coming soon
 
 <br>

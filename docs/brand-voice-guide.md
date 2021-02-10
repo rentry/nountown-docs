@@ -9,6 +9,8 @@ nav_order: 3
 Assignment 2
 {: .label .label-yellow }
 
+**Team lead:** Kelly Knickerbocker
+
 ## Tone of voice words
 ### Words by team member
 <table>

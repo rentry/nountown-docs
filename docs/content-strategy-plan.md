@@ -9,5 +9,7 @@ nav_order: 9
 Final assignment
 {: .label .label-yellow }
 
+**Team lead:** Tina Grover
+
 <br>
 Coming soon

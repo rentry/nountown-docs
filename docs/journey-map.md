@@ -9,6 +9,8 @@ nav_order: 6
 Assignment 5
 {: .label .label-yellow }
 
+**Team lead:** Taylor Grace
+
 Coming soon
 
 <br>
