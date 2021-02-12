@@ -6,9 +6,6 @@ nav_order: 5
 
 # {{ page.title }}
 
-Assignment 4
-{: .label .label-yellow }
-
 **Team lead:** Ryan Johnson
 
 Coming soon

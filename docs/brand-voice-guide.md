@@ -6,9 +6,6 @@ nav_order: 3
 
 # {{ page.title }}
 
-Assignment 2
-{: .label .label-yellow }
-
 **Team lead:** Kelly Knickerbocker
 
 ## Tone of voice words

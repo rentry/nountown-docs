@@ -6,9 +6,6 @@ nav_order: 2
 
 # {{ page.title }} 
 
-Assignment 1
-{: .label .label-yellow }
-
 **Team lead:** Tina Grover
 
 ## Client

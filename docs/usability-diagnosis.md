@@ -6,9 +6,6 @@ nav_order: 7
 
 # {{ page.title }}
 
-Assignment 6
-{: .label .label-yellow }
-
 **Team lead:** Kate Shevchenko
 
 Coming soon
