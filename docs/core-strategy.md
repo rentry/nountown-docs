@@ -51,7 +51,7 @@ Lightspeed’s content ➊inspires educators to discover new, ➋innovative ways
 1. Offers new, accessible ways to solve persistent problems.
 1. Critical to our mission to connect educators and students for effective learning.
 1. Empowers educators and students by eliminating obstacles to effective learning.
-1. We adjust to the needs of educators and students by being flexible and responsive.
+1. We adjust to the needs of educators and students by being flexible and responsive across in-person, distance, and hybrid learning environments.
 
 ## Our team
 
