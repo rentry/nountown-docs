@@ -55,7 +55,7 @@ Lightspeed’s content ➊inspires educators to discover new, ➋innovative ways
 
 ## Our team
 
-The nounTown team (team six):
+The nounTown team:
 
 - Taylor Grace
 - Tina Grover
