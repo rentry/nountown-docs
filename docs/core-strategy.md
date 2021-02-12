@@ -47,7 +47,7 @@ Lightspeed’s content inspires educators to discover new, innovative ways to re
 
 Lightspeed’s content ➊inspires educators to discover new, ➋innovative ways to ➌reach their students using technologies that ➍remove barriers to learning across a variety of classroom ➎formats.
 
-1. Makes educators more confident and ready to act through positive, supportive language about reliable products.
+1. Makes educators feel more confident and ready to act through positive, supportive language about reliable products.
 1. Offers new, accessible ways to solve persistent problems.
 1. Critical to our mission to connect educators and students for effective learning.
 1. Empowers educators and students by eliminating obstacles to effective learning.
