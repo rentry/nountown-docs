@@ -53,16 +53,5 @@ Lightspeed’s content ➊inspires educators to discover new, ➋innovative ways
 1. Empowers educators and students by eliminating obstacles to effective learning.
 1. We adjust to the needs of educators and students by being flexible and responsive across in-person, distance, and hybrid learning environments.
 
-## Our team
-
-The nounTown team:
-
-- Taylor Grace
-- Tina Grover
-- Ryan Johnson
-- Jeff Keller
-- Kelly Knickerbocker
-- Ekaterina Shevchenko
-
 <br>
 [Brand voice guide →]({{ site.baseurl }}/docs/brand-voice-guide/){% include unbutton.html %}
