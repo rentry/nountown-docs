@@ -45,7 +45,7 @@ Lightspeed’s content inspires educators to discover new, innovative ways to re
 
 ### Core strategy unpacking
 
-Lightspeed’s content ➊inspires educators to discover new, ➋innovative ways to ➌reach their students using technologies that ➍remove barriers to learning across a variety of classroom ➎formats.
+Lightspeed’s content **➊inspires** educators to discover new, **➋innovative** ways to **➌reach** their students using technologies that **➍remove barriers** to learning across a **➎variety of classroom formats**.
 
 1. Makes educators feel more confident and ready to act through positive, supportive language about reliable products.
 1. Offers new, accessible ways to solve persistent problems.
