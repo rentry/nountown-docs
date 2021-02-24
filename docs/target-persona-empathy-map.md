@@ -25,7 +25,7 @@ nav_order: 5
 - **Income:** $61,000
 
 ### Bio
-Cindy graduated from Oregon State University in 2009 with a bachelor’s degree in elementary education. Since then, she’s taught kindergarten through third graders at schools across thePacific Northwest. For the past four years, Cindy has been a first grade teacher at a public school in Corvallis, Oregon, where her work ethic and dedication to student success have been recognized at the annual awards ceremony. Cindy is viewed as a leader among her peers and is trusted by her team to represent their best interests in interactions with the principal. Cindy grew up in Portland and has been married for seven years.
+Cindy graduated from Oregon State University in 2009 with a bachelor’s degree in elementary education. Since then, she’s taught kindergarten through third graders at schools across the Pacific Northwest. For the past four years, Cindy has been a first grade teacher at a public school in Corvallis, Oregon, where her work ethic and dedication to student success have been recognized at the annual awards ceremony. Cindy is viewed as a leader among her peers and is trusted by her team to represent their best interests in interactions with the principal. Cindy grew up in Portland and has been married for seven years.
 
 ### Motivations
 - To make a positive impact in the lives of her students
