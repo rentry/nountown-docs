@@ -6,7 +6,7 @@ nav_order: 6
 
 # {{ page.title }}
 
-**Team lead:** Taylor Grace
+**Team lead:** Ryan Johnson
 
 Coming soon
 
