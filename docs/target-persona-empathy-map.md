@@ -8,6 +8,9 @@ nav_order: 5
 
 **Team lead:** Taylor Grace
 
+## Empathy map
+![Empathy map, Cindy, categories divided into says, thinks, does, feels]({{ 'assets/images/empathy-map.png' | relative_url }})
+
 ## User persona: Cindy
 
 **Proactive**{: .label } **Engaged**{: .label } **Tech-savvy**{: .label } **Passionate**{: .label }
@@ -61,9 +64,6 @@ Cindy graduated from Oregon State University in 2009 with a bachelor’s degree 
 - Target
 - Starbucks
 - Pinterest
-
-## Empathy map
-![Empathy map, Cindy, categories divided into says, thinks, does, feels]({{ 'assets/images/empathy-map.png' | relative_url }})
 
 <br>
 [The journey map →]({{ site.baseurl }}/docs/journey-map/){% include unbutton.html %}
