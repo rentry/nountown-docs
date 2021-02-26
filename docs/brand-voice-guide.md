@@ -8,7 +8,7 @@ nav_order: 3
 
 **Team lead:** Kelly Knickerbocker
 
-## Tone of voice words!!!!!
+## I love tone of voice words
 ### Words by team member
 <table>
     <thead>
