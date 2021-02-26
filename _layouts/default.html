@@ -66,7 +66,7 @@ layout: table_wrappers
       {% endif %}
     </nav>
     <footer class="site-footer">
-      This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.
+      See the <a href="https://github.com/rentry/nountown-docs">source on Github.</a><br><br>
     </footer>
   </div>
   <div class="main" id="top">
@@ -131,6 +131,7 @@ layout: table_wrappers
         {% endif %}
       {% endunless %}
       <div id="main-content" class="main-content" role="main">
+        {% unless page.title == "Home" %}<p class="text-grey-dk-000 fs-3">Client: <img src="{{ site.baseurl }}/assets/images/lightspeed-logo.svg/" width="100px" style="display: inline; margin-left: 5px;" alt="Lightspeed, a learning company" />{% endunless %}
         {% if site.heading_anchors != false %}
           {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
         {% else %}

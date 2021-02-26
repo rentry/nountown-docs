@@ -116,3 +116,11 @@
 .btn-green {
   @include btn-color($white, $green-100);
 }
+
+a.unbutton:hover {
+  text-decoration: none;
+  background-image: linear-gradient(#eeebee 0%, #eeebee 100%);
+  background-repeat: repeat-x;
+  background-position: 0 100%;
+  background-size: 1px 1px;
+}
