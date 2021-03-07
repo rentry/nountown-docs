@@ -16,6 +16,9 @@ Referencing our target persona (Cindy) and research interviews, our team produce
 [↓ Download the PDF]({{ 'assets/pdf/nountown-journey-map.pdf' | relative_url }})
 
 ## Journey map: accessible text
+
+This is a text alternative to the journey map image. The content is the same.
+
 Cindy teaches first grade at a public school in Corvallis, Oregon. With a decade of experience in the classroom, she’s considered passionate, proactive and engaged by her peers. Cindy is willing to go above and beyond to ensure her students’ success, even when it means she’ll need to take on extra work.
 
 ### Scenario 

@@ -56,6 +56,9 @@ From there, we looked for commonality across the team’s top interview insights
 ![Diagram with six categories, barriers for teachers, barriers for students, connecting with students, learning outcomes, technology, school budget]({{ 'assets/images/affinity-diagram.jpg' | relative_url }})
 
 ### Affinity diagram: accessible text
+
+This is a text alternative to the affinity diagram image. The content is the same.
+
 #### Barriers for teachers
 - Cords impact teacher’s mobility
 - Classroom noise

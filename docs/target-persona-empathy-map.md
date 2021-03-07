@@ -12,6 +12,9 @@ nav_order: 5
 ![Empathy map, Cindy, categories divided into says, thinks, does, feels]({{ 'assets/images/empathy-map.png' | relative_url }})
 
 ### Empathy map: accessible text
+
+This is a text alternative to the empathy map image. The content is the same.
+
 #### Says
 - I embrace new technology and enjoy testing tools
 - I don’t have enough time in a day
