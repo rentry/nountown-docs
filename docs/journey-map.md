@@ -15,7 +15,7 @@ Referencing our target persona (Cindy) and research interviews, our team produce
 
 [↓ Download the PDF]({{ 'assets/pdf/nountown-journey-map.pdf' | relative_url }})
 
-## Journey map: accessible text
+## Journey map **accessible alternative**{: .label .label-purple } 
 
 This is a text alternative to the journey map image. The content is the same.
 

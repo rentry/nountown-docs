@@ -11,7 +11,7 @@ nav_order: 5
 ## Empathy map
 ![Empathy map, Cindy, categories divided into says, thinks, does, feels]({{ 'assets/images/empathy-map.png' | relative_url }})
 
-### Empathy map: accessible text
+### Empathy map **accessible alternative**{: .label .label-purple } 
 
 This is a text alternative to the empathy map image. The content is the same.
 
