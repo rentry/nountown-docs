@@ -56,7 +56,7 @@ From there, we looked for commonality across the team’s top interview insights
 ![Diagram with six categories, barriers for teachers, barriers for students, connecting with students, learning outcomes, technology, school budget]({{ 'assets/images/affinity-diagram.jpg' | relative_url }})
 
 ### Affinity diagram: accessible text
-### Barriers for teachers
+#### Barriers for teachers
 - Cords impact teacher’s mobility
 - Classroom noise
 - Required to do all meals in classroom and that has cut into learning time
@@ -72,7 +72,7 @@ From there, we looked for commonality across the team’s top interview insights
 - Remote learning can overwhelm older teachers
 - Difficulty with online learning platforms
 
-### Barriers for students
+#### Barriers for students
 - Unequal access to wifi
 - Unequal access to technology
 - Steep learning curves
@@ -92,7 +92,7 @@ From there, we looked for commonality across the team’s top interview insights
 - Seeing the blackboard in a socially distanced class
 - Masks block students’ view of teachers’ pronunciation
 
-### Connecting with students
+#### Connecting with students
 - Hard to hear students over Zoom
 - No proximity control
 - Speaks loudly, not concerned about students hearing her
@@ -102,7 +102,7 @@ From there, we looked for commonality across the team’s top interview insights
 - Difficult keeping the attention of all students
 - Personal connection with each student is important
 
-### Learning outcomes
+#### Learning outcomes
 - Most disengaged students while distance learning are most engaged in person
 - Lowered expectations
 - Exhausted by online engagement
@@ -114,7 +114,7 @@ From there, we looked for commonality across the team’s top interview insights
 - Distracted students during independent and work time
 - In a socially distant classroom, kids must be stationary
 
-### Technology
+#### Technology
 - Desire for tech
 - Principal is pro-tech and adopting new tech
 - All kids have Chromebook for home and school
@@ -130,7 +130,7 @@ From there, we looked for commonality across the team’s top interview insights
 - Zoom connectivity issues
 - District-issued wifi hotspots are preloaded with limited data
 
-### School budget
+#### School budget
 - Lack of funds for public schools to equip all classrooms
 - Public schools have little money for new tech
 - Teachers identify tools from co-workers or forums
