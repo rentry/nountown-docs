@@ -61,7 +61,7 @@ Class sizes are getting bigger each academic year at Cindy’s school. As her cl
 
 > “Yes! The school purchased the system.”
 
-**District implements Lightspeed**{: .label .label-green }
+#### District implements Lightspeed
 
 #### Engagement
 - Attends Lightspeed's campus training for first time users
