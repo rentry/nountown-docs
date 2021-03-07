@@ -11,6 +11,67 @@ nav_order: 5
 ## Empathy map
 ![Empathy map, Cindy, categories divided into says, thinks, does, feels]({{ 'assets/images/empathy-map.png' | relative_url }})
 
+### Empathy map: accessible text
+#### Says
+- I embrace new technology and enjoy testing tools
+- I don’t have enough time in a day
+- Not enough resources
+- I want to connect with each of my students
+- Why do I have to be the one buying things for class?
+- There should be a happier medium between tech and tactile learning
+- Managing multiple groups of students is difficult
+- My principal is very pro-technology
+- I don’t know who to turn to for advice
+- We have purchased, implemented, and abandoned tech tools in the past
+- Tech support at school is lacking
+
+#### Thinks
+- I don’t have time for more training
+- My students aren’t doing as well as I hoped
+- Am I doing a good job?
+- Too much time wasted on having to get into/use too many programs/tools
+- This student is struggling. Is there anything else I can do?
+- I don’t want to leave any of my students behind
+- How am I going to make a lesson plan to adapt to each student
+- Are the kids in the groups working or chatting?
+- How do I convince my principal to invest in a new tool?
+- Inequality for students
+- I shouldn’t have to use ASL for my students to hear me
+- I can’t afford to buy the tools I need
+- Why should I have to spend my income on resources
+- failing my students
+- My principle doesn’t understand the realities of my day-to-day
+
+#### Does
+- Creates supportive, trusting environment among fellow teachers
+- Attends after-school training
+- Asks principal for advice
+- Speak loudly during lessons
+- leverages multiple tools
+- Googles interactive lessons plan ideas
+- Ask faculty for recommendations
+- Submits requests for new tech through Help Desk
+- Constantly moving around classroom from student to student
+- Submits grant proposals for unmet needs
+- Buys teaching supplies with her own money
+- The best with what she has
+- Pilot new tech for school
+
+#### Feels
+- Frustrated
+- Under-resourced to perform at their highest capacity
+- Empathetic towards struggling more than others
+- Pulled in too many directions
+- Passionate about facilitating positive learning outcomes
+- Overwhelmed
+- Undervalued
+- Responsible for setting their students up for long-term success
+- Unsupported by principals and administrators
+- Accountable to her students
+- Exhausted
+- Burnt out
+- limited
+
 ## User persona: Cindy
 
 **Proactive**{: .label } **Engaged**{: .label } **Tech-savvy**{: .label } **Passionate**{: .label }
