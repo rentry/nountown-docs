@@ -8,7 +8,9 @@ nav_order: 7
 
 **Team lead:** Kate Shevchenko
 
-## This section
+**In progress**{: .label .label-yellow}
+
+## Accessible alternative
 Here is an alternative using just HTML and CSS. All of the text is available to assistive technologies. This is a prototype to demonstrate a more accessible technique for data visualization. We recommend employing Lightspeed's brand styling in a production version.
 
 **Classroom audio creates better access to learning**{: .fs-7}
