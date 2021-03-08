@@ -27,7 +27,7 @@ Here is an alternative using just HTML and CSS. All of the text is available to 
     </div><!-- /.charts__chart -->
 </div><!-- /.charts -->
 
-**72%**{: .fs-9 } **Reduction in teacher redirections**{: .fs-5}
+**72%**{: .fs-9 } **Reduction in teacher redirections**{: .fs-5}<sup>1</sup>
 
 <div class="charts bg-grey-dk-000 mt-lg-7">
     <div class="charts__chart chart--p13 chart--lg bg-grey-dk-300">
