@@ -20,28 +20,28 @@ Here is an alternative using just HTML and CSS. All of the text is available to 
     </div><!-- /.charts__chart -->
 </div><!-- /.charts -->
 
-**43%**{: .fs-10} **Reduction in off-task behavior**{: .fs-5}<sup>1</sup>
+**43%**{: .fs-9 } **Reduction in off-task behavior**{: .fs-5}<sup>1</sup>
 
-<div class="charts bg-grey-dk-000">
+<div class="charts bg-grey-dk-000 mt-lg-7">
     <div class="charts__chart chart--p72 chart--lg bg-grey-dk-300">
     </div><!-- /.charts__chart -->
 </div><!-- /.charts -->
 
-**72%**{: .fs-10} **Reduction in teacher redirections**{: .fs-5}
+**72%**{: .fs-9 } **Reduction in teacher redirections**{: .fs-5}
 
-<div class="charts bg-grey-dk-000">
+<div class="charts bg-grey-dk-000 mt-lg-7">
     <div class="charts__chart chart--p13 chart--lg bg-grey-dk-300">
     </div><!-- /.charts__chart -->
 </div><!-- /.charts -->
 
-**13%**{: .fs-10} **Reduction in teacher absenteeism**{: .fs-5}
+**13%**{: .fs-9 } **Reduction in teacher absenteeism**{: .fs-5}
 
-<div class="charts bg-grey-dk-000">
+<div class="charts bg-grey-dk-000 mt-lg-7">
     <div class="charts__chart chart--p30 chart--lg bg-grey-dk-300">
     </div><!-- /.charts__chart -->
 </div><!-- /.charts -->
 
-**30%**{: .fs-10} **Increase in ELL word recognition**{: .fs-5}
+**30%**{: .fs-9 } **Increase in ELL word recognition**{: .fs-5}
 
 <sup>1</sup> Clackamas County, Oregon, 2002
 
