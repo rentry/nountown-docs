@@ -120,7 +120,7 @@ Text on top of images can be difficult to read, particularly if the font is thin
 ![A teacher in glasses and a facemask with the words her voice needs to be heard clearly and a play button]({{ 'assets/images/usability-lightspeed-7.png' | relative_url }})
 
 #### Featured data on the homepage is from 2002. Consider updating to support your brand characteristics of innovative and informative
-Out of date data can undermine its own purpose; it can erode trust in your brand. If users don't think the data is relevant, it may achieve the opposite effect of what was intended.
+Out of date data can undermine its own purpose; it can erode trust in your brand. If users don't think the data is relevant, it may result in the opposite effect of what was intended.
 
 ![A data visualization showing an attribution of Clackamas County, 2002]({{ 'assets/images/usability-lightspeed-8.png' | relative_url }})
 
