@@ -32,16 +32,16 @@ We are an ESOP company on the path to becoming employee-owned. We believe how yo
 
 <hr>
 
-<img src="{{site.baseul}}/assets/images/nountown.png" width="100px" alt="nountown" /> recommendations
+<h2><img src="{{site.baseul}}/assets/images/nountown.png" width="130px" alt="nountown" /> recommendations</h2>
 
-## Vision statement 
+### Vision statement 
 We envision a future with fewer barriers to learning, where generations of students in physical and virtual classrooms can engage meaningfully with their teachers and peers without distraction, delay, or complication.
 
-## Core strategy statement
+### Core strategy statement
 
 Lightspeed’s content inspires educators to discover new, innovative ways to reach their students using technologies that remove barriers to learning across a variety of classroom formats.
 
-### Core strategy unpacking
+#### Core strategy unpacking
 
 Lightspeed’s content **➊inspires** educators to discover new, **➋innovative** ways to **➌reach** their students using technologies that **➍remove barriers** to learning across a **➎variety of classroom formats**.
 
