@@ -8,7 +8,7 @@ nav_order: 2
 
 **Team lead:** Tina Grover
 
-## Client
+## About the client
 [Lightspeed](https://www.lightspeed-tek.com/) is a leader in providing classroom audio solutions to learning environments around the globe.
 
 ### Client brief
