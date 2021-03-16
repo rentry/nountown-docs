@@ -109,6 +109,7 @@ The Lightspeed website’s main navigation and footer are difficult to navigate 
  - 800-732-8999 toll free, 503-684-5538 main, 503-684-3197 fax
 
 ### Key Performance Indicators (KPIs)
+<span class="fs-3">Based on our <a href="{{ 'usability-diagnosis' | relative_url }}">usability diagnosis</a>.</span>
 
 <table>
     <thead>
