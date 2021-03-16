@@ -14,20 +14,20 @@ After diagnosing usability barriers, our team has identified methods by which Li
 
 ## Information architecture recommendations **refined**{: .label}
 
-To increase ease-of-use for all Lightspeed web visitors, we suggest the following updates to the site’s information architecture: 
+To increase ease-of-use for all of Lightspeed’s web visitors, we suggest the following updates to the site’s information architecture: 
 
 ### Content category standardization
 The content categories included in the main navigation and the footer are inconsistent, including when referring to the same piece of content. For example, in the main nav, “Resources” is where whitepapers, videos and customer stories live. In the footer, those items are included under a heading called “Learn.” To avoid confusion, ensure that all content categories are standardized across the organization and catalogued for quick reference.
 
 ### Consistent ordering of navigation options
-The main nav and the footer contain many of the same menu options, but are ordered differently on the page. For example, “About” is the second to last menu option along the main nav, but the first menu option along the footer. For a consistent user-experience, the options in both areas should be consistent.
+The main nav and the footer contain many of the same menu options, but are ordered differently on the page. For example, “About” is the second to last menu option along the main nav, but the first menu option along the footer. For a consistent user experience, the options in both areas should be consistent.
 
 ![Navigation bar with Products, Shop, Support, Resources, About, Blog, and a magnifying glass]({{ 'assets/images/usability-kpi-nav.png' | relative_url }})
 
 ![Footer with About, Learn, Products, Shop, Support, and Contact]({{ 'assets/images/usability-kpi-footer.png' | relative_url }})
 
 ### Consistent subnav options
-In addition to standardizing content categories and nav menu ordering, subnav items should mirror each other in the main nav and footer. For example, in the main nav, “About” has no secondary drop-down sections listed. In the footer, “About” has five sub-sections listed. Similarly, “Support” in the main nav includes a FAQ sub-nav option, while FAQ is not listed under “Support” in the footer. 
+In addition to standardizing content categories and nav menu ordering, subnav items should mirror each other in the main nav and footer. For example, in the main nav, “About” has no secondary drop-down sections listed. In the footer, “About” has five sub-sections listed. Similarly, “Support” in the main nav includes a FAQ subnav option, while FAQ is not listed under “Support” in the footer. 
 
 #### Main nav
 
@@ -43,15 +43,15 @@ As web visitors scroll through any page on the Lightspeed website, a sticky vers
 ![Header with Product, Shop, Support, Resources, About, and Blog, with Contact and magnifying glass]({{ 'assets/images/usability-kpi-contact.png' | relative_url }})
 
 ### “Products” vs. “Shop”
-For website visitors, the difference between “Products” and “Shop”—both options along  the main nav—may not be apparent. We suggest combining both product specs and sales details under one main nav option called “Solutions.” On that page, we believe a comparison tool to evaluate Lightspeed’s offerings alongside each other would be especially helpful for a specific use case. 
+For website visitors, the difference between “Products” and “Shop”—both options along the main nav—may not be apparent. We suggest combining both product specs and sales details under one main nav option called “Solutions.” On that page, we believe a comparison tool to evaluate Lightspeed’s offerings alongside each other would be especially helpful for a specific use case. 
 
 ### Addressing mixed messages around contacting Lightspeed
-On the homepage, visitors may be overwhelmed by the number of invitations to connect with Lightspeed–especially if they’re not at a point where reaching out is appropriate. More complicated is that the invitations to connect lead users down different paths:
+On the homepage, visitors may be overwhelmed by the number of invitations to connect with Lightspeed—especially if they’re not at a point where reaching out is appropriate. More complicated is that the invitations to connect lead users down different paths:
 
 - Once on the [Contact page](https://www.lightspeed-tek.com/contact/), users are prompted to choose between requesting an evaluation, submitting a sales inquiry, asking for technical support or finding their local Lightspeed rep; all options lead to separate form fill pages
 - On the [Sales Consultants page](https://www.lightspeed-tek.com/about-us/sales-consultants/), users can either contact sales or find a rep; both lead to separate form fills
 
-To avoid confusion, consider streamlining Lightspeed’s contact page and the avenues people are given to arrive there. Add “Contact Us” to the main nav for visibility, and use that as an opportunity to remove some of the duplicative links across the page.
+To avoid confusion, consider streamlining Lightspeed’s contact page and the avenues people are given to arrive there. Add “Contact Us” to the main nav for visibility, and use that as an opportunity to remove some of the duplicate links across the page.
 
 #### Multiple contact forms
 ![Three separate contact forms, one titled 'we are here to help', with phone numbers and find a local representative link, the second with contact lightspeed asking for name, school, and product interest, and the third with territory manager, company, and location]({{ 'assets/images/usability-kpi-contact-2.png' | relative_url }})
@@ -63,18 +63,17 @@ The Lightspeed website’s main navigation and footer are difficult to navigate 
 
 ![Header navigation, full description follows]({{ 'assets/images/usability-kpi-header-ia.png' | relative_url }})
 
-
 #### Proposed website footer structure
 
 ![Footer navigation, full description follows]({{ 'assets/images/usability-kpi-footer-ia.png' | relative_url }})
+*Indicates suggested subnav menu option that does not currently exist on the website
 
 #### Proposed navigation **Accessible alternative**{: .label .label-purple }
 
 ##### Header and footer
 
 - About
-  - About Lightspeed
-  - Meet the Team
+  - Meet the Team*
   - Blog
   - Press Room
   - Careers
@@ -89,18 +88,18 @@ The Lightspeed website’s main navigation and footer are difficult to navigate 
 - Resources
   - Videos
   - Customer Stories
-  - Testimonials
+  - Testimonials*
   - Whitepapers
   - Research
-  - Buyer's Kit
+  - Buyer's Kit*
 - Help Center
-  - Videos
-  - Customer Stories
-  - Testimonials
-  - Whitepapers
-  - Research
-  - Buyer's Kit
+  - On-Demand Support
+  - Submit Ticket
+  - Support Programs
+  - Warranty Programs
 - Contact Us
+
+*Indicates suggested subnav menu option that does not currently exist on the website
 
 ##### Footer only
 
