@@ -69,6 +69,7 @@ The Lightspeed website’s main navigation and footer are difficult to navigate 
 ![Footer navigation, full description follows]({{ 'assets/images/usability-kpi-footer-ia.png' | relative_url }})
 
 #### Proposed navigation **Accessible alternative**{: .label .label-purple }
+This is a text alternative to the proposed navigation images. THe content is the same.
 
 ##### Header and footer
 
