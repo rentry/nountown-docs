@@ -60,7 +60,7 @@ From there, we looked for commonality across the team’s top interview insights
 This is a text alternative to the affinity diagram image. The content is the same.
 
 #### Barriers for teachers
-- Cords impact teacher’s mobility
+- Cords impact teachers' mobility
 - Classroom noise
 - Required to do all meals in classroom and that has cut into learning time
 - Can’t see my students
