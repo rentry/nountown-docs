@@ -115,6 +115,7 @@ The Lightspeed website’s main navigation and footer are difficult to navigate 
         <tr>
         <th>KPI</th>
         <th>Type</th>
+        <th>Current</th>
         <th>Target</th>
         <th>Method</th>
         <th>Measurement</th>
@@ -124,6 +125,7 @@ The Lightspeed website’s main navigation and footer are difficult to navigate 
         {% for key in site.data.kpis %}
         <tr><td><strong>{{ key.kpi }}</strong></td>
         <td>{{ key.type }}</td>
+        <td>{{ key.current }}</td>
         <td>{{ key.target }}</td>
         <td>{{ key.method }}</td>
         <td>{{ key.measurement }}</td></tr>
